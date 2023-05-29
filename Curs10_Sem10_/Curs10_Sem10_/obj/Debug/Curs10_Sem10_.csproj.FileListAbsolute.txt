@@ -1,0 +1,11 @@
+C:\Users\juhas\OneDrive\Dokumentumok\Universitate programe in C#\Anul 1 Sem 2\Geometrie Computationala\Curs10_Sem10_\Curs10_Sem10_\bin\Debug\Curs10_Sem10_.exe.config
+C:\Users\juhas\OneDrive\Dokumentumok\Universitate programe in C#\Anul 1 Sem 2\Geometrie Computationala\Curs10_Sem10_\Curs10_Sem10_\bin\Debug\Curs10_Sem10_.exe
+C:\Users\juhas\OneDrive\Dokumentumok\Universitate programe in C#\Anul 1 Sem 2\Geometrie Computationala\Curs10_Sem10_\Curs10_Sem10_\bin\Debug\Curs10_Sem10_.pdb
+C:\Users\juhas\OneDrive\Dokumentumok\Universitate programe in C#\Anul 1 Sem 2\Geometrie Computationala\Curs10_Sem10_\Curs10_Sem10_\obj\Debug\Curs10_Sem10_.csproj.AssemblyReference.cache
+C:\Users\juhas\OneDrive\Dokumentumok\Universitate programe in C#\Anul 1 Sem 2\Geometrie Computationala\Curs10_Sem10_\Curs10_Sem10_\obj\Debug\Curs10_Sem10_.csproj.SuggestedBindingRedirects.cache
+C:\Users\juhas\OneDrive\Dokumentumok\Universitate programe in C#\Anul 1 Sem 2\Geometrie Computationala\Curs10_Sem10_\Curs10_Sem10_\obj\Debug\Curs10_Sem10_.Form1.resources
+C:\Users\juhas\OneDrive\Dokumentumok\Universitate programe in C#\Anul 1 Sem 2\Geometrie Computationala\Curs10_Sem10_\Curs10_Sem10_\obj\Debug\Curs10_Sem10_.Properties.Resources.resources
+C:\Users\juhas\OneDrive\Dokumentumok\Universitate programe in C#\Anul 1 Sem 2\Geometrie Computationala\Curs10_Sem10_\Curs10_Sem10_\obj\Debug\Curs10_Sem10_.csproj.GenerateResource.cache
+C:\Users\juhas\OneDrive\Dokumentumok\Universitate programe in C#\Anul 1 Sem 2\Geometrie Computationala\Curs10_Sem10_\Curs10_Sem10_\obj\Debug\Curs10_Sem10_.csproj.CoreCompileInputs.cache
+C:\Users\juhas\OneDrive\Dokumentumok\Universitate programe in C#\Anul 1 Sem 2\Geometrie Computationala\Curs10_Sem10_\Curs10_Sem10_\obj\Debug\Curs10_Sem10_.exe
+C:\Users\juhas\OneDrive\Dokumentumok\Universitate programe in C#\Anul 1 Sem 2\Geometrie Computationala\Curs10_Sem10_\Curs10_Sem10_\obj\Debug\Curs10_Sem10_.pdb
